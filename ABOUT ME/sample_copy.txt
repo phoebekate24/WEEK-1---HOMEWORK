@@ -4,32 +4,28 @@ Sample Content
 
 ABOUT ME PAGE
 
-I ENJOY LIFE AS A DEVELOPER
+GRAPHIC DESIGNER & ILLUSTRATOR
 
-I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+Hello, My name is Phoebe Kate Dunn. I am a freelance Graphic Designer and Illustrator based in Melbourne, Australia. Lover of colour and coffee.
 
+PORTFOLIO PAGE
 
-RESUME PAGE
+EXPERIENCE
 
-Experience
-				
-I recently graduated from a Front-End Web Development course at General Assembly where I learned HTML, CSS, JavaScript, jQuery and how to be an awesome Front-End Web Developer! During my spare time, I enjoy senior water aerobics, pickling, and spending time with my goldfish, Jerry.
-		
-Relevant Experience
-		
-Web Developer, Relaxr 2016 - present
-Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.
+Graduate of Advanced Diploma Graphic Design at Holmesglen TAFE Chadstone. Fluent in all Adobe Creative Suite programs & strong illustration skills. 
 
-Web Developer, Startup Matchmaker 2016 - present
-Used a design team's wireframes to develop this company's responsive homepage.
+Recently studied from Front End Web Development at General Assembly Melbourne where skills were obtain within HTML, CSS & Javascript.
+In spare time my hours are consumed by Pinterest, freelance projects and tasting the best coffee & cheesecake in Melbourne.
 
-Web Developer, CitiPix 2016 – present
-Built web app prototype that allows users to store and quickly retrieve photos using keywords.
+PORTFOLIO
 
+To & From Designs Branding - 2014
+To & From Designs is a creative business that offers design services including business stationery, invitations, wedding stationery, print adverts and promotional artwork.
+
+Vector Illustrations - 2014 - Current
+Illustrations of colourful, vector animals & others. Layers of colours and shapes to detail the creature or skull.
 
 EDUCATION
 
-General Assembly — FEWD 2016
-College of Soft Knocks — B.S. 2009
-School of Hard Knocks — 2005 (Honors)
-
+HOLMESGLEN TAFE - Advanced Diploma of Graphic Design 2011-2012
+GENERAL ASSEMBLY - Front End Web Development 2016
