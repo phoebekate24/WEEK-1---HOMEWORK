@@ -47,9 +47,21 @@ h2{
 	text-align: left;
 }
 
+h3{
+
+	font-size: 18px;
+	text-align: left;
+}
+
+h4{
+
+	font-size: 18px;
+	text-align: left;
+}
+
 p{
 	text-align: left;
-	width: 70%;
+	width: 100%;
 
 }
 
@@ -59,4 +71,26 @@ img{
 	background-color: rgb(150, 150, 150);
 	float: right;
 	margin-left: 25px;
+}
+
+ul{
+	text-align: left;
+	color: black;
+	list-style: round;
+}
+
+
+ul img {
+	float: center;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	border: 2px;
+	border-style: solid;
+	border-color: black;
+	padding: 5px;	
+	text-align: right;
+	width: 600px;
+	height: auto;
+
 }
